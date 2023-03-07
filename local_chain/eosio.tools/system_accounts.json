@@ -1,0 +1,62 @@
+[
+    {
+        "NAME": "eosio.bpay",
+        "PRIVATE_KEY": "5K1u3Ms46KvA4GJpxyjR4vCLodnNmvxxiwU6EEe5Xi6PTw3jwuW",
+        "PUBLIC_KEY": "EOS5iYEv6Xbqa3f3h9cKpzPkSnCYKWxx8m7Sq1LSg8jR8X6vSNwYB"
+    },
+    {
+        "NAME": "eosio.msig",
+        "PRIVATE_KEY": "5HzKyTCkb4bWpnTZm6ct5tGGssPVjkBvWAAaKbG8UJdJ49F1TyV",
+        "PUBLIC_KEY": "EOS82YfX6yubebqXnMHAtVrqfiKDC9VR7q1QsWnUrZr7WBJFKn2gx"
+    },
+    {
+        "NAME": "eosio.names",
+        "PRIVATE_KEY": "5KHrXiY1soxh4KYEqs1ANdsfFVbVRhQXizh4Z1vfVq6he3xHqJW",
+        "PUBLIC_KEY": "EOS81naHzF36o3TxpkhbHYCH68ySs3Q9GjiZz7H4XZrwSwpf3ZdkF"
+    },
+    {
+        "NAME": "eosio.ram",
+        "PRIVATE_KEY": "5JjjpibFnXVyU75bFQof3av1GZwBRwy33PtEW7h38K1FzRCuR4F",
+        "PUBLIC_KEY": "EOS8REdqQPY2iyRbjFBifFPMxP5ZgHFuRGKspyYs18LWvU911ccsL"
+    },
+    {
+        "NAME": "eosio.ramfee",
+        "PRIVATE_KEY": "5HvfKQZKnw5ZE7umr1Q8xu1LGmZYHTxjroa1YZsi7JwsX6EHTjR",
+        "PUBLIC_KEY": "EOS59xoFjEiGDPG86Jk9Z8GJmkfCBjdJWt9M13PU4dFwe5usLGRgR"
+    },
+    {
+        "NAME": "eosio.saving",
+        "PRIVATE_KEY": "5Jp5fyC3EhrirWRNp5c239ho85P4rkXPVq2xqKbEuf75KAcxT9Z",
+        "PUBLIC_KEY": "EOS6wNxTLfmhrzjZg31TYd2nJKHrVWcAe9Szn4m8mTw89A2NzdZA8"
+    },
+    {
+        "NAME": "eosio.stake",
+        "PRIVATE_KEY": "5JMyTFS5kUQUpfy5kJFdgLbDFvr3sjnWwz5KfU1vAqevyJKxMos",
+        "PUBLIC_KEY": "EOS7gDAYKxwsEr9MErGA8k6eGHUzd9y6waaWUSHtzKtAVjA93AGV6"
+    },
+    {
+        "NAME": "eosio.token",
+        "PRIVATE_KEY": "5KbfFjhHNczJnDSGYrjmEj5CaZJoaVZucW8zUofSTsjxo1U78SK",
+        "PUBLIC_KEY": "EOS6vfAusHvKEUvRs4sADm5ebz2SV399Usq55zauf13MkCwqQxyZe"
+    },
+    {
+        "NAME": "eosio.vpay",
+        "PRIVATE_KEY": "5KWJrBKxAxqBqc8LP8FpNiCr4uT6D1GyM9kxV7GSKSKZ3vGJCDg",
+        "PUBLIC_KEY": "EOS52Ku7xiYsVVKpj6Mxg4KpKCeKaETQRdYRaoFRTXV1fvVVcBqq5"
+    },
+    {
+        "NAME": "eosio.wrap",
+        "PRIVATE_KEY": "5JLRtJJ2cs2JwWA1ryh1PtyMoJYnDtr6dzrKqsiP4o8CeCkCukd",
+        "PUBLIC_KEY": "EOS7ueRRPxQYvoLPGysZLyzZrmVTRGUcxTPS7w9BDTpPvgqQXBQjf"
+    },
+    {
+        "NAME": "eosio.rex",
+        "PRIVATE_KEY": "5KYkvwEpva9Dy2nWSweJwncoEZHg8Tc8VucXU8FvBrtasxAb8gB",
+        "PUBLIC_KEY": "EOS7zFT5B993WA9x8riR7BavP42CjPTZudmBf1tY5yK17vbDsFqRC"
+    },
+    {
+        "NAME": "eosio.reserv",
+        "PRIVATE_KEY": "5JekvitxEySbZ9nf1V71JAxG4ftipyDGCK8Gw6Zmn6pvyuMY6kC",
+        "PUBLIC_KEY": "EOS5zkscDnj6pTdJxCm3eSUKoQsd7XaxRzfwrW9vEDpBAfXP2Ee8U"
+    }
+]
