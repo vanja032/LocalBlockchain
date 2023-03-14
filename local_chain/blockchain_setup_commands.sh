@@ -3,6 +3,8 @@ Key=<wallet default unlock key>
 
 cleos wallet unlock --password <wallet default unlock key>
 
+cleos wallet import --private-key <private development key>
+
 ./genesis_start.sh 
 
 python3 generate.py 
